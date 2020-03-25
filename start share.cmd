@@ -1,0 +1,1 @@
+py -3.6 shared_clipoard.py

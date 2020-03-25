@@ -1,0 +1,1 @@
+http://usd-centos5.corp.tensor.ru:2020
